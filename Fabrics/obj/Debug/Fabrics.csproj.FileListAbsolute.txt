@@ -1,0 +1,5 @@
+c:\users\oleg\documents\visual studio 2012\Projects\Fabrics\Fabrics\obj\Debug\Fabrics.csprojResolveAssemblyReference.cache
+c:\users\oleg\documents\visual studio 2012\Projects\Fabrics\Fabrics\bin\Debug\Fabrics.exe
+c:\users\oleg\documents\visual studio 2012\Projects\Fabrics\Fabrics\bin\Debug\Fabrics.pdb
+c:\users\oleg\documents\visual studio 2012\Projects\Fabrics\Fabrics\obj\Debug\Fabrics.exe
+c:\users\oleg\documents\visual studio 2012\Projects\Fabrics\Fabrics\obj\Debug\Fabrics.pdb
